@@ -1,0 +1,8 @@
+# Secrets and local tooling
+private/config.php
+.env
+.env.*
+!.env.example
+.vercel
+node_modules
+.DS_Store
